@@ -25,7 +25,7 @@ Currently pursuing B.Tech 3rd year Information Technology
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             <div class="contact-details">
                 <div class="detail">
-                    <img src="p.jpg">
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F57949%2Fcall&psig=AOvVaw0j8e-MJAhuvscp8pk3dp5q&ust=1737266801205000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjAg6jN_ooDFQAAAAAdAAAAABAE">
                     <p>+1 (406) 555-0120</p>
                 </div>
                 <div class="detail">
