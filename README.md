@@ -23,7 +23,7 @@ Currently pursuing B.Tech 3rd year Information Technology
 </head>
 <body>
     <div>
-        <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR2bmNiYzM4N3kwYm0xcDV2bmFqYmZmY2VqdzVkN2FpYTlsNzN4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LS2WElet7iL31i3bxh/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtiaGFtejllYmR1enllcXkwajZud3AzdTAxdDFieHY4cnE5eHphbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)" alt="Gifimage">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtiaGFtejllYmR1enllcXkwajZud3AzdTAxdDFieHY4cnE5eHphbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Gifimage">
     </div>
 </body>
 </html>
