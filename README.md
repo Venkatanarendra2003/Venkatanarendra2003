@@ -14,16 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Currently pursuing B.Tech 3rd year Information Technology
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <div>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtiaGFtejllYmR1enllcXkwajZud3AzdTAxdDFieHY4cnE5eHphbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Gifimage">
-    </div>
-</body>
-</html>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtiaGFtejllYmR1enllcXkwajZud3AzdTAxdDFieHY4cnE5eHphbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Gifimage">
