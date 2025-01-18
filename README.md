@@ -14,4 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Currently pursuing B.Tech 3rd year Information Technology
-C:/Users/A.%20Venkat%20narendra/OneDrive/Documents/Desktop/61/giphy.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR2bmNiYzM4N3kwYm0xcDV2bmFqYmZmY2VqdzVkN2FpYTlsNzN4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LS2WElet7iL31i3bxh/giphy.gif" alt="Gifimage">
+    </div>
+</body>
+</html>
